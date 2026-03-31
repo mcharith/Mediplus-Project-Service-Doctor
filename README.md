@@ -8,6 +8,15 @@ The service ensures data consistency, validation, and integrates seamlessly with
 
 ---
 
+## 👤 Student Information
+
+- **Student Name:** Charith Mihiranga Siriwardana
+- **Student Number:** 2301691075
+- **Slack:** https://ijse-eca-hdse-69-70.slack.com/team/U0AHD5TQ4H5
+- **GCP Project ID:** ts-2130-eca-gdse-491417
+
+---
+
 ## 📖 About
 
 Doctor-Service is designed to handle all operations related to doctors in a healthcare or channeling environment.  
